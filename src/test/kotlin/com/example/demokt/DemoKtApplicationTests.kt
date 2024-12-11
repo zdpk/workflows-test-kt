@@ -1,10 +1,10 @@
-package com.example.demokt
+package x.x.app
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class DemoKtApplicationTests {
+class ApplicationTests {
 
     @Test
     fun contextLoads() {
